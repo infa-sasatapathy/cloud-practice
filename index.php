@@ -5,5 +5,5 @@ print `ifconfig`
 ?>
 </pre>
 <html>
-<img src='image.png' width='400' height='400' allign="right" />
+<img align="middle" src='image.png' width='400' height='400' />
 </html>
